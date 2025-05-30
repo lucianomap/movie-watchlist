@@ -37,7 +37,7 @@ pip install -r requirements.txt
 4. Configure the environment variables:
 
 Rename the `.env.example` file to `.env`.
-Edit the `.env` file with the appropriate configuration (e.g., PostgreSQL connection settings).
+Edit the `.env` file with the appropriate configuration (e.g.: PostgreSQL connection settings).
 
 5. Run the application:
 
